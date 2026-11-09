@@ -17,6 +17,15 @@ body {
     border-radius: 15px;
 }
 
+.question:hover {
+    background: #543503;
+    background: radial-gradient(circle, rgba(84, 53, 3, 1) 35%, rgba(27, 0, 36, 1) 100%);
+    padding: 15px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+}
+
 .big {
     border: 10px solid #ccc;
     padding: 100px;
